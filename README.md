@@ -13,3 +13,5 @@ In this version all of the words revolve around:
 However, in this version there are '/' where the spaces would be.
 
 Have fun and enjoy!
+
+All the original credits go to https://www.youtube.com/watch?v=m4nEnsavl6w , which is the tutorial I followed to create this game!
